@@ -1,3 +1,4 @@
 GitTutorial
 Add register the correction into Index
 Commit record Index state
+Pull: import information from remote repository
