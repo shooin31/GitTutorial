@@ -1,2 +1,3 @@
 GitTutorial
 Add register the correction into Index
+Pull: import information from remote repository
