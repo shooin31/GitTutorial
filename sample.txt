@@ -1,1 +1,2 @@
 GitTutorial
+Add register the correction into Index
